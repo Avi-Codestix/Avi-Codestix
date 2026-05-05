@@ -12,7 +12,7 @@
 
 ---
 
-## 🔥 Languages-Frameworks-Tools 🔥
+<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,git,html,css,js,ts,tailwind,figma,vite" />
@@ -24,7 +24,7 @@
 
 ---
 
-## 🚀 Deployment
+<h2 align="center">🚀 Deployment</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare" />
@@ -37,7 +37,7 @@
 
 ---
 
-## 🐍 Snake eating my contribution 🐍
+<h2 align="center">🐍 Snake eating my contribution 🐍</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
@@ -45,7 +45,7 @@
 
 ---
 
-## ⚡ Stats ⚡
+<h2 align="center">⚡ Stats ⚡</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
@@ -53,4 +53,12 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+
+<p align="center">
+🔎 Show More 🔍
 </p>
