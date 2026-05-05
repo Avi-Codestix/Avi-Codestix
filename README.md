@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1500&speed=50&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+There!+👋;Myself+Abhishek!" />
+</h1>
 
 <p align="center">
 💻 Web Developer | Learner 👨‍💻 | Gamer 🎮
@@ -15,20 +18,20 @@
 <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,git,html,css,js,ts,tailwind,figma,vite" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redux,prisma,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,vite,git" />
 </p>
 
 
-<br><br>
+<br>
 <h2 align="center">Deployment</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare" />
+     <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb" />
 </p>
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/LOG-purple?style=for-the-badge"/>
