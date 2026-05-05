@@ -40,8 +40,9 @@
 <h2 align="center">🐍 Snake eating my contribution 🐍</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Avi-Codestix/Avi-Codestix/blob/output/github-snake-dark.svg"/>
 </p>
+
 
 ---
 
