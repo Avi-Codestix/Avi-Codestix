@@ -24,7 +24,7 @@
 
 
 <br><br>
-<h2 align="center">🚀 Deployment</h2>
+<h2 align="center">Deployment</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare" />
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/ALERT-red?style=for-the-badge"/>
 </p>
 
-
+---
 
 <h2 align="center">🐍 Snake eating my contribution 🐍</h2>
 
