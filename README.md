@@ -18,8 +18,6 @@
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,git,html,css,js,ts,tailwind,figma,vite" /><br><br>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redux,prisma,firebase,supabase" />
-
 </p>
 
 ---
