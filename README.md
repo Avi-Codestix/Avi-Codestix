@@ -15,7 +15,24 @@
 ## 🔥 Languages-Frameworks-Tools 🔥
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,java,git,github" />
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,git,html,css,js,ts,tailwind,figma,vite" /><br><br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redux,prisma,firebase,supabase" />
+
+</p>
+
+---
+
+## 🚀 Deployment
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/LOG-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ALERT-red?style=for-the-badge"/>
 </p>
 
 ---
