@@ -1,19 +1,42 @@
-name: snake
+<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
+<p align="center">
+💻 Web Developer | Learner 👨‍💻 | Gamer 🎮
+</p>
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: YOUR_USERNAME
-          outputs: dist/github-contribution-grid-snake.svg
+<p align="center">
+🎓 Student <br>
+💻 I love learning new technologies <br>
+🚀 Currently working on projects
+</p>
 
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
+---
+
+## 🔥 Languages-Frameworks-Tools 🔥
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,java,git,github" />
+</p>
+
+---
+
+## 🐍 Snake eating my contribution 🐍
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ⚡ Stats ⚡
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 👨‍💻 Repositories 👨‍💻
+
+🔎 Show More 🔍
